@@ -1,0 +1,7 @@
+Statement,Strongly disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Strongly agree
+"Before this interview, <br>I had never heard of QA practices.",12,2,0,0,0,0
+Testing is a crucial part <br>of software development.,0,0,0,0,3,11
+Code review is not always necessary <br>in software development.,0,4,1,1,4,3
+Automated workflows are an essential <br>part of software development to ensure <br>the quality of software.,0,0,1,2,3,8
+I strongly believe that neglecting <br>QA results in more defects.,0,1,1,1,2,9
+Investing more in QA equals <br>lower maintenance cost in future.,0,0,0,1,8,5
